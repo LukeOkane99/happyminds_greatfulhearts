@@ -1,30 +1,21 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Welcome!
+featuredImage: 'https://scontent.fbhd1-1.fna.fbcdn.net/v/t1.0-9/121586746_116307053577249_6734447398446841568_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=gNOnyvQtyJ8AX_rH1T5&_nc_ht=scontent.fbhd1-1.fna&oh=0d46c035c5bde07b91996b9a6b7137af&oe=60295FA4'
+subtitle: 'Welcome to Happy Minds and Grateful Hearts.'
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: Home
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Start your mindfullness journey now and learn the appropriate techniques which will help you to live in the moment and forget about life's worries.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+## What is Mindfullness?
 
-# Features
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+# The Benefits of practicing mindfullness include:
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+- Overall improvement of your well-being
+- Improving your physical health
+- Improving your mental health

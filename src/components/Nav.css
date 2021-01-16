@@ -47,7 +47,7 @@
 .NavLink:hover,
 .NavLink.active,
 .NavLink:focus {
-  color: var(--primary);
+  color: #FFB6C1;
   border-bottom-color: currentColor;
 }
 

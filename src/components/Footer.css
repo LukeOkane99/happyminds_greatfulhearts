@@ -1,7 +1,8 @@
 .footer {
   padding: 2rem 0;
-  background: var(--lightGrey);
+  background: #FFB6C1;
   font-size: 1.2rem;
+  font-weight: bold;
 }
 
 .footer a {

@@ -8,7 +8,7 @@ import Layout from '../components/Layout'
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
   <main className="Home">
-    <PageHeader
+    <PageHeader 
       large
       title={title}
       subtitle={subtitle}
