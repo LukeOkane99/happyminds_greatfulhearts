@@ -1,11 +1,10 @@
 import React from 'react'
-import { MapPin, Smartphone, Mail } from 'react-feather'
+import { MapPin, Smartphone, Mail, Facebook, Instagram } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
-import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
 
@@ -18,7 +17,6 @@ export const ContactPageTemplate = ({
   address,
   phone,
   email,
-  locations
 }) => (
   <main className="Contact">
     <PageHeader
@@ -53,6 +51,12 @@ export const ContactPageTemplate = ({
                 <Mail /> {email}
               </a>
             )}
+            <a className="Contact--Details--Item" href={`https://www.facebook.com/happymindsgratefulhearts`} target="_blank" rel="noreferrer">
+              <Facebook />  https://www.facebook.com/happymindsgratefulhearts
+            </a>
+            <a className="Contact--Details--Item" href={`https://www.instagram.com/happyminds_gratefulhearts/`} target="_blank" rel="noreferrer">
+              <Instagram /> https://www.instagram.com/happyminds_gratefulhearts
+            </a>
           </div>
         </div>
 
@@ -61,8 +65,6 @@ export const ContactPageTemplate = ({
         </div>
       </div>
     </section>
-
-    <GoogleMap locations={locations} />
   </main>
 )
 
@@ -90,11 +92,6 @@ export const pageQuery = graphql`
         address
         phone
         email
-        locations {
-          mapLink
-          lat
-          lng
-        }
       }
     }
   }
