@@ -1,16 +1,22 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
+title: Welcome
 featuredImage: https://scontent.fbhd1-1.fna.fbcdn.net/v/t1.0-9/121586746_116307053577249_6734447398446841568_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=gNOnyvQtyJ8AX_rH1T5&_nc_ht=scontent.fbhd1-1.fna&oh=0d46c035c5bde07b91996b9a6b7137af&oe=60295FA4
-subtitle: This is the components page subtitle.
+subtitle: 
 section1: >-
-  ## This is a container component
+  ## Welcome to Happy Minds Greatful Hearts!
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  Do you find yourself becoming bogged down and stressed by daily life?
+
+  
+  Then why not try mindfullness to learn how to take control of your mind?
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  Start your mindfulness and meditation journey now to master your mind, live in the present and become more confident in yourself and your abilities.
+
+
+  
 section2: >-
   ## You can use videos, images and text.
 
@@ -40,5 +46,5 @@ gallery:
     title: Yellow Ice Cream
 meta:
   description: This is a meta description.
-  title: Components Page
+  title: Home
 ---
