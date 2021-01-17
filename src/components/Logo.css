@@ -2,9 +2,9 @@
   display: flex;
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
-  height: 4rem;
-  width: 4rem;
+  background-position:center;
+  height: 8rem;
+  width: 8rem;
   align-items: center;
-  justify-content: center;
+  justify-content:center;
 }

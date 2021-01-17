@@ -6,8 +6,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} Happy Minds Greatful Hearts. All rights reserved | Developed with care by{' '}
-          <a href="https://www.talismanwebs.com/">Talisman Webs</a>.
+          © Copyright {new Date().getFullYear()} Happy Minds Greatful Hearts. All rights reserved | Developed by Luke O'Kane
         </span>
       </div>
     </footer>
