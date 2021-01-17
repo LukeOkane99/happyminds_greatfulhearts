@@ -38,14 +38,8 @@ export const HomePageTemplate = ({
     <section className="section">
       <div className="container">
         <h1>About Happy Minds Greatful Hearts</h1>
+        <img src="https://scontent.fbhd1-1.fna.fbcdn.net/v/t31.0-8/20776817_10203651262038529_1335609012567740785_o.jpg?_nc_cat=104&ccb=2&_nc_sid=174925&_nc_ohc=LXVZT0uLihgAX_z0fyh&_nc_ht=scontent.fbhd1-1.fna&oh=c6a8b2e83839119add0b709ad80deb11&oe=602818E7" alt="Amanda" style={{ width: `300px`, height: 'auto', paddingBottom: `2rem`, display: 'block', marginLeft: 'auto', marginRight: 'auto' }}></img>
         <Accordion items={accordion} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <h2>Our gallery component</h2>
-        <Gallery images={gallery} />
       </div>
     </section>
 
@@ -55,10 +49,11 @@ export const HomePageTemplate = ({
       </div>
     </section>
 
-    <section className="BackgroundVideo-section section">
-      <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {video && <source src={video} type="video/mp4" />}
-      </BackgroundVideo>
+    <section className="section">
+      <div className="container">
+        <h2>Gallery</h2>
+        <Gallery images={gallery} />
+      </div>
     </section>
 
     <section className="section">

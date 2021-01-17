@@ -20,13 +20,13 @@ section1: >-
 
   
 section2: >-
-  ## You can use videos, images and text.
+  ## An introduction to mindfulness
 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aA2FpuH6s94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
+videoTitle: Make a change to your life today!
 accordion:
   - description: My Name is Amanda, I am a mum of 10 amazing children and I began my journey into mindfullness and meditation 2 years ago. I practice meditation everyday and have a passion for spreading my joy with others. 
     title: About Me
