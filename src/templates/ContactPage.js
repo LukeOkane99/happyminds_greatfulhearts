@@ -52,10 +52,10 @@ export const ContactPageTemplate = ({
               </a>
             )}
             <a className="Contact--Details--Item" href={`https://www.facebook.com/happymindsgratefulhearts`} target="_blank" rel="noreferrer">
-              <Facebook />  https://www.facebook.com/happymindsgratefulhearts
+              <Facebook />  Like Our Facebook Page
             </a>
             <a className="Contact--Details--Item" href={`https://www.instagram.com/happyminds_gratefulhearts/`} target="_blank" rel="noreferrer">
-              <Instagram /> https://www.instagram.com/happyminds_gratefulhearts
+              <Instagram /> Follow us on Instagram
             </a>
           </div>
         </div>
