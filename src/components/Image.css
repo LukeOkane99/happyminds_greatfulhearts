@@ -1,6 +1,5 @@
 .Image {
   display: block;
-  width: 100%;
 }
 
 .BackgroundImage {
@@ -9,7 +8,7 @@
   left: 0;
   bottom: 0;
   right: 0;
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   overflow: hidden;
 }
