@@ -51,7 +51,7 @@ export const HomePageTemplate = ({
     <section className="section">
       <div className="container">
         <h2>Gallery</h2>
-        <p>We are always uploading new media to our <a href="https://www.facebook.com/happymindsgratefulhearts/photos/?ref=page_internal" target="_blank" rel="noreferrer">Facebook</a> page so please feel free to keep up to date with us there and like our page!</p>
+        <p>We are always uploading new media to our <a href="https://www.facebook.com/happymindsgratefulhearts/photos/?ref=page_internal" target="_blank" rel="noreferrer" style={{color: '#FFB6C1', textDecoration: 'none'}}>Facebook</a> page so please feel free to keep up to date with us there and like our page!</p>
         <Gallery images={gallery} />
       </div>
     </section>
