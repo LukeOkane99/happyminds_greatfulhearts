@@ -19,7 +19,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--primary);
+  background-color: #FFB6C1;
 }
 
 ::selection {
@@ -198,7 +198,7 @@ blockquote {
 /* Buttons */
 
 .Button {
-  background: var(--primary);
+  background: #FFB6C1;
   color: white;
   text-transform: uppercase;
   text-decoration: none;
