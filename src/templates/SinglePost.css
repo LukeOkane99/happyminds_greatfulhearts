@@ -1,5 +1,6 @@
 .SinglePost {
   background: var(--lightGrey);
+  padding: 15rem;
 }
 
 .SinglePost--BackButton {
