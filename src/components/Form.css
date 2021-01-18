@@ -202,7 +202,7 @@
   right: 100%;
   top: 50%;
   transform: translateY(-50%);
-  background:  #FFB6C1;
+  background:  #00c7c7;
 }
 
 .Form--RadioInput + span::after,

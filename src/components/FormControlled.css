@@ -22,7 +22,7 @@
 }
 
 .Form--Line .valid {
-  stroke: hsl(166, 72%, 40%);
+  stroke: #00c7c7;
 }
 
 .Form--Line .invalid {
