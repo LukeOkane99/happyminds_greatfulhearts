@@ -33,6 +33,13 @@ accordion:
     title: What is Mindfulness?
   - description: >-
       There are many proven benefits of mindfulness which include:
+   
+      - Stress Reduction
+      - Boosting Memory
+      - Reduced Rumination
+      - Improving Focus
+      - Less Emotional Reactivity
+      - More Cognitive Flexibility
 
     title: What are the benefits of Mindfulness?
   - description: We will be operating different courses in 2021 so keep your eyes peeled!
