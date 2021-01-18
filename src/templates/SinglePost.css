@@ -1,6 +1,6 @@
 .SinglePost {
   background: var(--lightGrey);
-  padding: 15rem;
+  padding-bottom: 41rem;
 }
 
 .SinglePost--BackButton {
@@ -76,6 +76,10 @@
   font-size: 1.2rem;
   font-weight: 600;
   text-decoration: none;
+}
+
+.SinglePost--Pagination--Link:hover {
+  color: black;
 }
 
 .SinglePost--Pagination--Link.next {
