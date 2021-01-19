@@ -8,6 +8,6 @@ meta:
   title: Courses
 ---
 
-# Courses will be coming soon in 2021!
+# Courses coming soon in 2021!
 
 Please keep an eye out on this site, our blog and our social media for news on when our courses will be coming!
