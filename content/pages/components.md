@@ -1,15 +1,15 @@
 ---
-title: b
+title: test
 featuredImage: https://scontent.fbhd1-1.fna.fbcdn.net/v/t1.0-9/121586746_116307053577249_6734447398446841568_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=gNOnyvQtyJ8AX_rH1T5&_nc_ht=scontent.fbhd1-1.fna&oh=0d46c035c5bde07b91996b9a6b7137af&oe=60295FA4
-subtitle: b
-section1: b
-section2: b
+subtitle: test
+section1: test
+section2: test
 video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: h
+videoTitle: test
 accordion:
-  - title: h
-    description: h
+  - title: test
+    description: test
 gallery:
   - alt: Pretzel Play Intensive
     title: First ever Pretzel Play Intensive
