@@ -36,8 +36,6 @@ export const HomePageTemplate = ({
     <section className="section">
       <div className="container">
         <h1>About Happy Minds Greatful Hearts</h1>
-        <img src={'images/amanda.jpg'} alt="Amanda" style={{ width: `300px`, height: 'auto', paddingBottom: `2rem`, display: 'block', marginLeft: 'auto', marginRight: 'auto' }}></img>
-        <p style={{ textAlign: 'center' }}>Amanda Jayne Brennan (me) - Certified Mindfulness Instructor</p>
         <Accordion items={accordion} />
       </div>
     </section>
