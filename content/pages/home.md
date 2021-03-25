@@ -42,7 +42,7 @@ videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 section1: >-
   # Welcome to Happy Minds Greatful Hearts!
 
-  Hello and welcome to our site, thank you for stopping by!
+  Hello and Welcome to our site, thank you for stopping by!
 
 
   We specialise in Creative Mindfulness, Meditation and Yoga concepts for kids ranging from preschool to teens.
